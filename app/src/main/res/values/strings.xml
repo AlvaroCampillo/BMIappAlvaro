@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1Part1Alv</string>
+    <string name="Imperial_Units">Imperial Units</string>
+    <string name="Author_Info">Author Info</string>
+    <string name="Metric_Units">Metric Units</string>
+    <string name="History">History</string>
+</resources>
